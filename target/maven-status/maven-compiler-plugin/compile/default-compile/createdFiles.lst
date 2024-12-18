@@ -1,7 +1,0 @@
-org/example/Main.class
-org/example/controller/removeProduct.class
-org/example/controller/addProduct.class
-org/example/controller/getProduct.class
-org/example/controller/updateProduct.class
-org/example/model/Product.class
-org/example/model/Store.class
